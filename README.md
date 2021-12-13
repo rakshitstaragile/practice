@@ -7,4 +7,5 @@ Tutorial in youtube
 
 ## Local Development
 
-Open index.html in your browser
+feature-readme-instructions
+Open index.html in your browser.
